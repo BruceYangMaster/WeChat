@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\classes-af024ad10d9d780604092afe14176342f6a2fe54.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\JunsNetHelper.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="847be7b7729e31bdec666e0b43d1f00b62ab6557">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\JunsNetHelper-612b9e826b68fc2f6445885ffd12c7b3fdf74fe0.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-c1b66c09dff6266b5ff0bc9a5ca726ca423f0d4c.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\locSDK_3.3-4e54577949a724bd267e48b79908898a597e8c0a.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-30d73fd3b90cd559b272cd449d4e739bee3fe4bf.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\zxing-1.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="327bddfe22740db0419bd719a0f950b6ad2b3c3f">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\zxing-1.6-d4aff6a8295ccb26342a9722b1112d2aeded8860.jar" />
+    </item>
+    <item
+        jar="D:\android-yang\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-2a72b0e1cc4204a77ab2d90d7d9e253c4cd8cab2.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4-01f81aa069226124eca8473e524aa4115020e3c4.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-82da6fe44807ce4ec1fd3f2c12ecd68295d324b5.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\afinal-0.3.32-bin.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54417b03f2eb410e2a94428512e4f4218e7fc012">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\afinal-0.3.32-bin-af2760037a4cc4ac8e3ff16be57de1e5c09759d9.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\universal-image-loader-1.8.7-snapshot-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9712c0ace25c14ba55c1f98741a0e6a6084d7b1">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.7-snapshot-with-sources-809c8452404a013e16838293284cec11cbcb6f5b.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\JsonUtils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3b5a4f2e244dd8a3d55bfb430fcea53a4ad6bfa">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\JsonUtils-c5b6a0cfc9816d4b34b01d8bafd228bdb3e61e61.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\pushservice-4.4.0.71.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\pushservice-4.4.0.71-5b46ac8a776a8c058f526752a66ad7f2bf6f2e56.jar" />
+    </item>
+    <item
+        jar="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\libs\easemobchat_2.1.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db85b4623b9d5c43156d802e3bc60f570dcb6ff7">
+        <dex dex="E:\androidcodetest\高仿微信\wechat-master\WeChat For Android Studio\app\build\intermediates\pre-dexed\debug\easemobchat_2.1.5-392483d42a2d06a20f98acfadd41ea53475bfcf4.jar" />
+    </item>
+
+</items>
