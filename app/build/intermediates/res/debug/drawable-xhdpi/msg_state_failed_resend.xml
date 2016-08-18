@@ -4,4 +4,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/msg_state_fail_resend" />
     <item android:state_selected="true" android:drawable="@drawable/msg_state_fail_resend" />
     <item android:drawable="@drawable/msg_state_fail_resend" />
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/msg_state_failed_resend.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/msg_state_failed_resend.xml -->

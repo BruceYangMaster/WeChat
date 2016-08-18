@@ -3,4 +3,4 @@
     <corners android:radius="6dp" />
     <stroke android:color="#ffeeeeee" android:width="1dp" />
     <gradient android:startColor="@color/white" android:endColor="@color/white" android:angle="90"/>
-</shape><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/input_bg.xml -->
+</shape><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/input_bg.xml -->

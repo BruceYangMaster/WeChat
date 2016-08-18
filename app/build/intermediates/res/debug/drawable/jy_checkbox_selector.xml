@@ -4,4 +4,4 @@
   <item android:state_checked="true" android:drawable="@drawable/jy_checkbox_on" /> <!-- checked -->
   <item android:state_checked="false" android:drawable="@drawable/jy_checkbox_off" /> <!-- default -->
  
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable/jy_checkbox_selector.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable/jy_checkbox_selector.xml -->

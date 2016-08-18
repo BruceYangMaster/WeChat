@@ -10,4 +10,4 @@
     <item
         android:drawable="@drawable/chatto_voice_playing_f3"
         android:duration="200" />
-</animation-list><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/anim/voice_to_icon.xml -->
+</animation-list><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/anim/voice_to_icon.xml -->

@@ -12,4 +12,4 @@
 		android:background="@drawable/titlepop_item_selector"
 		android:text="@string/app_name" />
 	 
-</LinearLayout><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/layout/layout_item_pop.xml -->
+</LinearLayout><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/layout/layout_item_pop.xml -->

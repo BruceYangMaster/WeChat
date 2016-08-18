@@ -4,4 +4,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/balloon_l_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/balloon_l_pressed" />
     <item android:drawable="@drawable/balloon_l" />
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatfrom_bg.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatfrom_bg.xml -->

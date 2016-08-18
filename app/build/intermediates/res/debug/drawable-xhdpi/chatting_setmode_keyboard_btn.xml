@@ -4,4 +4,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/chatting_setmode_keyboard_btn_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/chatting_setmode_keyboard_btn_pressed" />
     <item android:drawable="@drawable/chatting_setmode_keyboard_btn_normal" />
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatting_setmode_keyboard_btn.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatting_setmode_keyboard_btn.xml -->

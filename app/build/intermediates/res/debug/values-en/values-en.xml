@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="Add_a_button_was_clicked">Add a button was clicked</string>
     <string name="Add_a_friend">Add a friend?</string>
@@ -114,19 +114,19 @@
     <string name="Whether_the_public">is public</string>
     <string name="Whether_to_empty_all_chats">Whether to empty all chats</string>
     <string name="Whether_to_send">Whether to send?</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="add_friend">add friends</string>
     <string name="address_book">address book</string>
     <string name="agree">agree</string>
     <string name="answer">answer</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="app_name">WeChat</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="are_empty_group_of_news">Are empty group of news...</string>
     <string name="attach_file">File</string>
@@ -152,25 +152,25 @@
     <string name="call_duration">call duration</string>
     <string name="cancel">Cancel</string>
     <string name="cant_find_pictures">"Can't find pictures"</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="card_bag">Card Bag</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="change_the_group_name_failed_please">Change the group name failed, please check the network or try again later</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="chat">Chat</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="chatset">chat settings</string>
     <string name="chatting_is_dissolution">Chatting is dissolution...</string>
     <string name="clear_all_records">clear all chats？</string>
     <string name="clear_records">clear chat?</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="collection">Collection</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="confirm_forward_to">determine the forwarded to：%1$s ?</string>
     <string name="confirm_resend">confirm to resend？</string>
@@ -178,17 +178,17 @@
     <string name="confirmpassword">confirm password</string>
     <string name="connect_conflict">the same account was loggedin in other device</string>
     <string name="connect_failuer_toast">please check the network or try again later</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="contacts">Contacts</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="copy">copy</string>
     <string name="copy_message">copy message</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="countries_and_areas">Country/Area</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="delete">delete</string>
     <string name="delete_message">delete message</string>
@@ -197,41 +197,41 @@
     <string name="deleting">deleting...</string>
     <string name="diagnose">diagnose</string>
     <string name="did_not_answer">did not answer</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="discover">Discover</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="dissolution_group_hint">the group will be dismissed after exiting</string>
     <string name="downwaiting">downloading the file, please try again later</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="drift_bottle">Drift Bottle</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="em_user_remove">This user has been removed</string>
     <string name="exit_group">exit</string>
     <string name="exit_group_hint">the group messages will not be received after exiting the groups</string>
     <string name="expression">[expression]</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="expression2">Expression</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="failed_to_move_into">Failed to move into the blacklist, please check the network or try again later</string>
     <string name="file">[file]</string>
     <string name="forward">forwarding</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="games">Games</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="get_failed_please_check">Get failed, please check the network or try again later</string>
     <string name="group_chat">group chat</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="group_chats">Group Chats</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="group_is_blocked">Group is blocked...</string>
     <string name="group_name">group name</string>
@@ -250,7 +250,7 @@
     <string name="login_failure_failed">Logon failure: failed to get good friend or a group chat</string>
     <string name="logout">log out</string>
     <string name="logout_hint">logout will never clear the chat history, this account can used on next time user login</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="me">Me</string>
     <string name="menu_addfriend">Add Contacts</string>
@@ -258,24 +258,24 @@
     <string name="menu_money">Receipt  </string>
     <string name="menu_qrcode">Scan QR Code  </string>
     <string name="moments">Moments</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="move_up_to_cancel">slide up cancel sending</string>
     <string name="mute">mute</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="my_posts">My Posts</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="network_anomalies">Network anomalies, please check the network!</string>
     <string name="network_isnot_available">the network is not available</string>
     <string name="network_unavailable">the network connection is not available, please check the network</string>
     <string name="newchat">the new chat</string>
     <string name="newnotify">receiving a new message</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="no_msg">No new message yet</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="not_add_myself">"Can't add myself"</string>
     <string name="not_connect_to_server">Not connect to server, please try again later</string>
@@ -283,23 +283,23 @@
     <string name="not_download">Did not download:</string>
     <string name="notify">new message notification</string>
     <string name="now_refresh_list">refreshing contact list</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="official_accounts">Official Accounts</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="ok">OK</string>
     <string name="password">password</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="password2">password</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="people">people)</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="people_nearby">People Nearby</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="picture">[picture]</string>
     <string name="please_check">key validation error!Please on AndroidManifest.xml file check the key set</string>
@@ -307,10 +307,10 @@
     <string name="prompt">prompt</string>
     <string name="receive_the_passthrough">Receive the passthrough:action：</string>
     <string name="recoding_fail">the recording failure, please try again！</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="recommended_friends">Recommended Friends</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="recording_video">record video</string>
     <string name="register">register</string>
@@ -319,17 +319,17 @@
     <string name="remove_group_of">Remove group of shielding failure, please check the network or try again later</string>
     <string name="resend">resend</string>
     <string name="save">save</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="scan">Scan QR Code</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="sd_card_does_not_exist">"SD card does not exist, can't take pictures"</string>
     <string name="search">search</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="search2">Search</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="search_header">search</string>
     <string name="search_new">search</string>
@@ -341,17 +341,17 @@
     <string name="session">conversation</string>
     <string name="set">settings</string>
     <string name="setting">setting</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="settings">Settings</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="shake">shake</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="shake2">Shake</string>
     <string name="shopping">Shopping</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="sure_to_empty_this">Sure to empty this group chats?</string>
     <string name="temporary_does_not">Temporary does not support more than 10 m video!</string>
@@ -366,11 +366,11 @@
     <string name="video">[video]</string>
     <string name="voice">voice</string>
     <string name="voice_call">[voice call]</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/strings.xml -->
     <eat-comment/>
     <string name="wallet">Wallet</string>
     <string name="wechat_id">WeChat ID</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-en/hx_strings.xml -->
     <eat-comment/>
     <string name="yangshengqi">use speaker</string>
     <string name="you_are_group">You are group of creators to remove from the group</string>

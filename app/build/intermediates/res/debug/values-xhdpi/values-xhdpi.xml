@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="Calendar_DayBgColor">#fff7f7f7</color>
     <color name="Calendar_WeekBgColor">#ffefe7de</color>
@@ -11,10 +11,10 @@
     <color name="black2">#ffeeeeee</color>
     <color name="black3">#fff7f7f7</color>
     <color name="black4">#ffeaeaea</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="black_deep">#FF000000</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="blackk">#ffe6e6e6</color>
     <color name="blackk1">#ff7c8081</color>
@@ -25,7 +25,7 @@
     <color name="blue2">#ff31859b</color>
     <color name="blue6">#ff71c7d4</color>
     <color name="border_color">#ffffffff</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="bottom_bar_normal_bg">#2D2F31</color>
     <color name="bottom_text_color_normal">#ffffff</color>
@@ -45,7 +45,7 @@
     <color name="btn_register_pressed">#4ebcd3</color>
     <color name="btn_white_normal">#f7f8f8</color>
     <color name="btn_white_pressed">#b5b5b6</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="c1">#ffcca266</color>
     <color name="c2">#ffc466cc</color>
@@ -57,24 +57,24 @@
     <color name="calendar_background">#ff000000</color>
     <color name="color_divider">#ffc9c9c9</color>
     <color name="commonReminder">#ffbdbab5</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="common_bg">#fcfcfc</color>
     <color name="common_bottom_bar_normal_bg">#2d2f31</color>
     <color name="common_bottom_bar_selected_bg">#161718</color>
     <color name="common_botton_bar_blue">#2ea7e0</color>
     <color name="common_top_bar_blue">#4ebcd3</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="current_day_color">#ffff0000</color>
     <color name="darkgreen">#ff336666</color>
     <color name="day_color">#ffffffff</color>
     <color name="deep_black">#ff000000</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="divider_list">#cccccc</color>
     <color name="error_item_color">#F6EBE6</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="font_value">#ff888271</color>
     <color name="gray">#ff808080</color>
@@ -82,22 +82,22 @@
     <color name="gray2">#ffeef2fb</color>
     <color name="gray_back">#ff473e26</color>
     <color name="gray_black">#ff525252</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="gray_normal">#666667</color>
     <color name="gray_pressed">#b5b5b6</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="gray_white">#fff7f7f7</color>
     <color name="green1">#ff76923c</color>
     <color name="greenn">#ff96cf99</color>
     <color name="greeny">#00CB0D</color>
     <color name="grey">#fff5f5f5</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="grid_state_focused">#80000000</color>
     <color name="grid_state_pressed">#1Affffff</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="inner_grid_color">#ffffffff</color>
     <color name="isHoliday_BgColor">#ffe0e0e0</color>
@@ -115,10 +115,10 @@
     <color name="login">#ff333333</color>
     <color name="main_bgcolor">#ffffffff</color>
     <color name="notice_detail_pressedc">#ff99cccc</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="orange">#FFA500</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="orange1">#ffff7d27</color>
     <color name="orange2">#ffd75702</color>
@@ -149,19 +149,19 @@
     <color name="title_white">#fff7f7f7</color>
     <color name="today_background_color">#ffff0000</color>
     <color name="today_color">#ffffffff</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="top_bar_normal_bg">#4ebcd3</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="transparent">#00000000</color>
     <color name="transparent2">#50000000</color>
     <color name="txtcolor">#ff000000</color>
     <color name="unPresentMonth_FontColor">#ff8c8a8c</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_colors.xml -->
     <eat-comment/>
     <color name="voip_interface_text_color">#bababa</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/chat_colors.xml -->
     <eat-comment/>
     <color name="weekname_color">#ffffffff</color>
     <color name="white">#ffffff</color>
@@ -169,7 +169,7 @@
     <color name="white_blue_selected">#ffb1daff</color>
     <color name="white_gray">#ffcccc99</color>
     <color name="window_bg">#ffeef1f3</color>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/swipe_attrs.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/swipe_attrs.xml -->
     <eat-comment/>
     <declare-styleable name="SwipeLayout">
         <attr format="enum" name="drag_edge">
@@ -183,7 +183,7 @@
             <enum name="pull_out" value="1"/>
         </attr>
     </declare-styleable>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/swipelistview__attrs.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/swipelistview__attrs.xml -->
     <eat-comment/>
     <declare-styleable name="SwipeListView">
         <attr format="boolean" name="swipeOpenOnLongPress"/>
@@ -212,7 +212,7 @@
         <attr format="reference" name="swipeDrawableChecked"/>
         <attr format="reference" name="swipeDrawableUnchecked"/>
     </declare-styleable>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_dimens.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
@@ -229,7 +229,7 @@
     <dimen name="padding_search_bar">5dp</dimen>
     <dimen name="sidebar_text_size">10dp</dimen>
     <dimen name="size_avatar">50dp</dimen>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_strings.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_strings.xml -->
     <eat-comment/>
     <string name="Add_a_button_was_clicked">添加按钮被点击</string>
     <string name="Add_a_friend">加个好友呗</string>
@@ -477,7 +477,7 @@
     <string name="voice_msg">[语音消息]</string>
     <string name="yangshengqi">使用扬声器播放语音</string>
     <string name="you_are_group">你被群创建者从此群中移除</string>
-    <!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_styles.xml -->
+    <!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/values-xhdpi/hx_styles.xml -->
     <eat-comment/>
     <style name="AnimBottom" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>

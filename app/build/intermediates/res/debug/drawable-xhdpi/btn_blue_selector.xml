@@ -3,4 +3,4 @@
     <item android:drawable="@drawable/btn_blue_pressed_shape" android:state_pressed="true"/>
     <item android:drawable="@drawable/btn_blue_pressed_shape" android:state_enabled="false"/>
     <item android:drawable="@drawable/btn_blue_normal_shape"/>
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/btn_blue_selector.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/btn_blue_selector.xml -->

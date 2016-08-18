@@ -10,4 +10,4 @@
         android:layout_height="36dp"  
         android:src="@drawable/head" />
 </LinearLayout>
-<!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/layout/item_chatroom_header_item.xml -->
+<!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/layout/item_chatroom_header_item.xml -->

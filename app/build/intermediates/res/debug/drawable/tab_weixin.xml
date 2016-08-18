@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/weixin_pressed" android:state_selected="true"/>
     <item android:drawable="@drawable/weixin_normal"/>
 
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable/tab_weixin.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable/tab_weixin.xml -->

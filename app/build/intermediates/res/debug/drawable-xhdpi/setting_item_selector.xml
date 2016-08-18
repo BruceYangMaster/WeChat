@@ -5,4 +5,4 @@
     <item android:drawable="@color/white" android:state_selected="true"/>
     <item android:drawable="@color/white"/>
 
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/setting_item_selector.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/setting_item_selector.xml -->

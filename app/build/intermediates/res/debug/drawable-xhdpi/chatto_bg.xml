@@ -5,4 +5,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/skin_aio_user_bubble_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/skin_aio_user_bubble_pressed" />
     <item android:drawable="@drawable/skin_aio_user_bubble_nor" />
-</selector><!-- From: file:/E:/androidcodetest/高仿微信/wechat-master/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatto_bg.xml -->
+</selector><!-- From: file:/E:/androidcodetest/WeChat%20For%20Android%20Studio/app/src/main/res/drawable-xhdpi/chatto_bg.xml -->
